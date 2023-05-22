@@ -54,7 +54,6 @@ h3,
 .h3 {
     font-family: 'Playfair Display';
     font-weight: 400;
-    line-height: 108px;
     margin: 0;
 }
 
@@ -62,12 +61,12 @@ h1,
 .h1 {
     font-size: 32px;
     font-weight: 700;
-    line-height: 380px;
+    text-align: center;
 }
 
 @media all and (min-width: 992px) {
     h1 {
-        font-size: 90px
+        font-size: 284px
     }
 }
 
